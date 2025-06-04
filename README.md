@@ -10,3 +10,6 @@
 - create a Makefile to compile `writer.c`
 - modify `finder-test.sh` to uncomment `make`
 - use `syslog.h` to write to `/var/logs`
+
+## Assignment 3 part 1
+- write wrappers for execvp and fork
